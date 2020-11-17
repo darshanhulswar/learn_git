@@ -1,9 +1,10 @@
-import React from 'react'
+import React from 'react';
+import './components/disocount.css';
 
 function discount() {
     let discount = 0
     return (
-        <div>
+        <div className="disocount">
 
         </div>
     )
