@@ -4,7 +4,7 @@ export class App extends Component {
     render() {
         return (
             <div>
-                Hello World
+                Hello World and here is some more content to change the source code
             </div>
         )
     }
