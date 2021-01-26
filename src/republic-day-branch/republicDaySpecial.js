@@ -1,7 +1,7 @@
 import React from "react";
 
 function republicDaySpecial() {
-  return <div></div>;
+  return <div>Republic Day Special</div>;
 }
 
 export default republicDaySpecial;
