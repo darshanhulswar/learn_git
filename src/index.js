@@ -1,5 +1,5 @@
 import "./index.css";
 import App from "./App";
-import {useState} from "react";
+import {useState, useEffect} from "react";
 
 ReactDOM.render(<App />, document.getElementById("root"));
